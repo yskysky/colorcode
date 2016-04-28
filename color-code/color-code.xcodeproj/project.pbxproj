@@ -15,6 +15,7 @@
 		CDF877F01CD295D000DEC056 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CDF877EE1CD295D000DEC056 /* LaunchScreen.storyboard */; };
 		CDF877FB1CD295D000DEC056 /* color_codeTests.m in Sources */ = {isa = PBXBuildFile; fileRef = CDF877FA1CD295D000DEC056 /* color_codeTests.m */; };
 		CDF878061CD295D000DEC056 /* color_codeUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = CDF878051CD295D000DEC056 /* color_codeUITests.m */; };
+		CDF878151CD2969700DEC056 /* SignupViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CDF878141CD2969700DEC056 /* SignupViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,8 @@
 		CDF878011CD295D000DEC056 /* color-codeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "color-codeUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CDF878051CD295D000DEC056 /* color_codeUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = color_codeUITests.m; sourceTree = "<group>"; };
 		CDF878071CD295D000DEC056 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CDF878131CD2965000DEC056 /* SignupViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SignupViewController.h; sourceTree = "<group>"; };
+		CDF878141CD2969700DEC056 /* SignupViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SignupViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +106,8 @@
 			children = (
 				CDF877E31CD295D000DEC056 /* AppDelegate.h */,
 				CDF877E41CD295D000DEC056 /* AppDelegate.m */,
+				CDF878141CD2969700DEC056 /* SignupViewController.m */,
+				CDF878131CD2965000DEC056 /* SignupViewController.h */,
 				CDF877E61CD295D000DEC056 /* ViewController.h */,
 				CDF877E71CD295D000DEC056 /* ViewController.m */,
 				CDF877E91CD295D000DEC056 /* Main.storyboard */,
@@ -272,6 +277,7 @@
 			files = (
 				CDF877E81CD295D000DEC056 /* ViewController.m in Sources */,
 				CDF877E51CD295D000DEC056 /* AppDelegate.m in Sources */,
+				CDF878151CD2969700DEC056 /* SignupViewController.m in Sources */,
 				CDF877E21CD295D000DEC056 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

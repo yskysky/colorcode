@@ -6,8 +6,9 @@
 //  Copyright © 2016 CIS195. All rights reserved.
 //
 
-#ifndef SignupViewController_h
-#define SignupViewController_h
+#import <UIKit/UIKit.h>
+
+@interface SignupViewController : UIViewController
 
 
-#endif /* SignupViewController_h */
+@end
