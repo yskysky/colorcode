@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "0615D2FABFBA054AEF4A93DC3CA478E2A118ABC8",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "0615D2FABFBA054AEF4A93DC3CA478E2A118ABC8" : 0,
+    "C4D8D972440D4A885FA538E491FD674B3E8DD4F2" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "8E1360BB-8E2A-4D08-933A-941C1FC881AA",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "0615D2FABFBA054AEF4A93DC3CA478E2A118ABC8" : "color-code\/",
+    "C4D8D972440D4A885FA538E491FD674B3E8DD4F2" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "color-code",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "color-code\/color-code.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ParsePlatform\/parse-server-example.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0615D2FABFBA054AEF4A93DC3CA478E2A118ABC8"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:nataliecarstens\/color-code.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C4D8D972440D4A885FA538E491FD674B3E8DD4F2"
+    }
+  ]
+}
